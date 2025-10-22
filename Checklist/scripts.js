@@ -44,7 +44,7 @@ function showError(message) {
   errorMsg.textContent = message;
 }
 
-// tehtävien luonti ja näyttö kentän alapuolella
+// tehtävien luonti ja niiden näyttäminen kentän alapuolella
 function renderTodos() {
   list.innerHTML = "";
 

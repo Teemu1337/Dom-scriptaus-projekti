@@ -39,7 +39,6 @@ Mika Stenbergille hyvästä opetuksesta ja edellisistä workshopeista ja dioista
 Ws3Schools 2025. JavaScript and HTML DOM. Viitattu 21.10.2025
 https://www.w3schools.com/jsref/default.asp
 
-
 Käytin myös ChatGPT:tä esimerkiksi virheiden löytämiseen. Se on kätevää kun koodi näyttää täydelliseltä, mutta ei toimikaan(esim. pilkku puuttuu). Opin myös hyödyntämään "DOMContentLoaded" komentoa, sekä "Date.now()" käyttämistä ID:nä luomaan uniikin luvun, joita olen käyttänyt myös osassa workshopeissa eli opin tekoälyn hyödyntämisessä uuttakin.
 
 Teemu Hyppönen
